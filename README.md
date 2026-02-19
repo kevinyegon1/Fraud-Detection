@@ -46,7 +46,7 @@ The **0.95 ROC-AUC** indicates an exceptional ability to distinguish between leg
 ## 📁 Repository Structure
 ```text
 ├── data/               # Dataset (if public)
-├── notebooks/          # EDA and Model Training notebooks
-├── src/                # Modular Python scripts for preprocessing/modeling
+├── exploratory data analysis notebook/          # EDA 
+├── model notebook/                # Model Training notebooks
 ├── requirements.txt    # List of dependencies
 └── README.md
